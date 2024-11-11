@@ -18,7 +18,7 @@ const Contact = () => {
               </h3>
               <p className="text-lg text-[#2E2E2E]">
                 Whether you have questions, need assistance, or just want to
-                learn more about Swiss AI, we're here to help. Reach out to us
+                learn more about Swiss AI, we&apos;re here to help. Reach out to us
                 through any of the methods below.
               </p>
               <div className="space-y-4">
