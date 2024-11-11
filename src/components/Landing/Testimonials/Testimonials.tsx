@@ -57,7 +57,7 @@ const Testimonials = () => {
               <div className="bg-white p-8 rounded-lg">
                 <FaQuoteLeft className="text-[#28C76F] text-3xl mb-4" />
                 <p className="text-[#2E2E2E] mb-4">
-                  “Swiss AI’s analytics are top-notch. I love how it simplifies
+                  “Swiss AI&apos;s analytics are top-notch. I love how it simplifies
                   data into actionable insights. Highly recommended for all
                   levels of traders!”
                 </p>

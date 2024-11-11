@@ -29,7 +29,7 @@ const About = () => {
                 features.
               </p>
               <p className="text-lg text-[#2E2E2E]">
-                Founded by industry experts, Swiss AI's mission is to make
+                Founded by industry experts, Swiss AI&apos;s mission is to make
                 trading more accessible, reliable, and insightful. We are
                 committed to providing the best tools and insights to help our
                 users achieve success in the fast-paced world of trading.
