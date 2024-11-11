@@ -1,6 +1,4 @@
 import React from "react";
-import Image from "next/image";
-import botImage from "/mnt/data/ai-bot1.jpg"; // Update path as needed for your project structure
 import { FaArrowRightLong } from "react-icons/fa6";
 
 const Hero = () => {

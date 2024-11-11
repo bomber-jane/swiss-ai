@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { FaQuoteLeft } from "react-icons/fa";
 import "swiper/css";
 import "swiper/css/pagination";
-import { Autoplay, Pagination } from "swiper/modules";
+import { Autoplay } from "swiper/modules";
 
 const Testimonials = () => {
   return (
